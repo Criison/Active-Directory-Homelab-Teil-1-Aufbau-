@@ -5,7 +5,7 @@ Jedes Ticket ist gleich aufgebaut: Anfrage, Umsetzung, Prüfung.
 
 Der Aufbau der Umgebung steht in [Teil 1](README.md).
 
-> **Hinweis zur Entstehung:** Die Tickets hat mir eine KI (Claude) als Lernbegleitung gestellt und meine Lösungen geprüft. Umgesetzt und getestet habe ich alles selbst am System.
+> **Hinweis zur Entstehung:** Die Tickets hat mir (Claude) als Lernbegleitung gestellt und meine Lösungen geprüft. Umgesetzt und getestet habe ich alles selbst am System.
 
 ---
 
